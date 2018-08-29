@@ -1,0 +1,1 @@
+This is how I solved the webpage making project in CodeBerry, based on a demo and snapshots. Not the most beautiful, but I did it all by myself.
