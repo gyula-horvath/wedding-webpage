@@ -5,3 +5,4 @@ A webpage that I made as a project in Codeberry, and its Codeberry variant.
 
 - HTML5
 - CSS3
+- JSBin
